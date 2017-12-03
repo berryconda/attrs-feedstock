@@ -24,11 +24,6 @@ requirements:
     - python
 
 test:
-  requires:
-    - hypothesis
-    - zope
-    - zope.interface
-    - pympler    
   imports:
     - attr
 
